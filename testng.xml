@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Automation Suite" parallel="classes" thread-count="2">
+
+    <test name="All Tests">
+
+        <classes>
+            <class name="com.tests.LoginTest"/>
+            <class name="com.tests.CartTest"/>
+        </classes>
+
+    </test>
+
+</suite>
