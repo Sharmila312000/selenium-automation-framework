@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Automation Framework
-
+#
 ## 📌 Project Overview
 This project is a Selenium-based Automation Framework developed using Java, TestNG, and Maven.  
 It follows the Page Object Model (POM) design pattern and supports parallel execution with thread-safe WebDriver handling.
